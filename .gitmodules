@@ -1,0 +1,8 @@
+[submodule "busybox"]
+	path = busybox
+	url = https://git.busybox.net/busybox/
+	branch = 1_36_stable
+[submodule "zen-kernel"]
+	path = zen-kernel
+	url = https://github.com/zen-kernel/zen-kernel
+	branch = 6.7/main
